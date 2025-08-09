@@ -3,7 +3,7 @@ print func lib in c++
 and its a pet project yep
 
 # example
-```
+```cpp
 int main() {
   puts("Hello world!1!!\n");
   puts(128);
