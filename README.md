@@ -4,6 +4,9 @@ and its a pet project yep
 
 # example
 ```cpp
+#include <iostream>
+#include "puts"
+
 int main() {
   puts("Hello world!1!!\n");
   puts(128);
