@@ -17,4 +17,4 @@ int main() {
 ```
 
 # updates
-more thing will be later
+more things will be later
