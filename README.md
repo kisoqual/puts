@@ -1,5 +1,5 @@
 # puts
-print func lib in c++<br>
+print func lib for c++<br>
 and its a pet project yep
 
 # example
